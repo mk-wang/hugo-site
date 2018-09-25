@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:mk-wang/mk-wang.github.io.git
+	branch = master
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde.git
