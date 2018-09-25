@@ -1,0 +1,1 @@
+# Hugo source files for my git pages.
